@@ -1,0 +1,475 @@
+[
+    {"NIF":"52825648P", "NOMBRE":"Elisa Rua Pardo", "DOMICILIO":"A/ Europa, 7", "TLF":"916043214", "CIUDAD":"Madrid", 
+    "ASIGNATURAS": [
+    {
+        "ASIGNATURA": "Lenguaje",
+        "NOTAS": 
+            {
+                "TRIMESTRE1" : 7, "TRIMESTRE2" : 8, "TRIMESTRE3" : 8
+            }
+        
+    },
+    {
+        "ASIGNATURA": "Matemáticas",
+        "NOTAS": 
+            {
+                "TRIMESTRE1" : 4, "TRIMESTRE2" : 4, "TRIMESTRE3" : 5
+            }
+        
+    },
+    {
+        "ASIGNATURA": "Inglés",
+        "NOTAS": 
+            {
+                "TRIMESTRE1" : 9, "TRIMESTRE2" : 10, "TRIMESTRE3" : 10
+            }
+        
+    },
+    {
+        "ASIGNATURA": "Educación Física",
+        "NOTAS": 
+            {
+                "TRIMESTRE1" : 6, "TRIMESTRE2" : 7, "TRIMESTRE3" : 8
+            }
+        
+    },
+    {
+        "ASIGNATURA": "Ciencias",
+        "NOTAS": 
+            {
+                "TRIMESTRE1" : 5, "TRIMESTRE2" : 5, "TRIMESTRE3" : 4
+            }
+        
+    }
+]},
+
+
+
+
+
+    {"NIF":"03335214B", "NOMBRE":"María del Carmen Benito Barroso", "DOMICILIO":"C/ Lago, 2", "TLF":"957126354", "CIUDAD":"Getafe",
+        "ASIGNATURAS": [
+            {
+                "ASIGNATURA": "Lenguaje",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 4, "TRIMESTRE2" : 3, "TRIMESTRE3" : 5
+                    }
+                
+            },
+            {
+                "ASIGNATURA": "Matemáticas",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 5, "TRIMESTRE2" : 5, "TRIMESTRE3" : 5
+                    }
+                
+            },
+            {
+                "ASIGNATURA": "Inglés",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 6, "TRIMESTRE2" : 7, "TRIMESTRE3" : 7
+                    }
+                
+            },
+            {
+                "ASIGNATURA": "Educación Física",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 8, "TRIMESTRE2" : 9, "TRIMESTRE3" : 9
+                    }
+                
+            },
+            {
+                "ASIGNATURA": "Ciencias",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 4, "TRIMESTRE2" : 3, "TRIMESTRE3" : 3
+                    }
+                
+            }
+        ]},
+
+
+
+
+
+    {"NIF":"14521222P", "NOMBRE":"Paloma Paz Guerra", "DOMICILIO":"C/ Picasso, 27", "TLF":"91604343", "CIUDAD":"Madrid",
+        "ASIGNATURAS": [
+            {
+                "ASIGNATURA": "Lenguaje",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 8, "TRIMESTRE2" : 8, "TRIMESTRE3" : 9
+                    }
+                
+            },
+            {
+                "ASIGNATURA": "Matemáticas",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 6, "TRIMESTRE2" : 6, "TRIMESTRE3" : 7
+                    }
+                
+            },
+            {
+                "ASIGNATURA": "Inglés",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 9, "TRIMESTRE2" : 9, "TRIMESTRE3" : 10
+                    }
+                
+            },
+            {
+                "ASIGNATURA": "Educación Física",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 5, "TRIMESTRE2" : 5, "TRIMESTRE3" : 6
+                    }
+                
+            },
+            {
+                "ASIGNATURA": "Ciencias",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 8, "TRIMESTRE2" : 7, "TRIMESTRE3" : 8
+                    }
+                
+            }
+        ]},
+
+
+
+
+
+    {"NIF":"98655525H", "NOMBRE":"Luis Pericacho Camacho", "DOMICILIO":"A/ Reyes Católicos, 17", "TLF":"965203123", "CIUDAD":"Fuenlabrada",
+        "ASIGNATURAS": [
+            {
+                "ASIGNATURA": "Lenguaje",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 9, "TRIMESTRE2" : 9, "TRIMESTRE3" : 10
+                    }
+                
+            },
+            {
+                "ASIGNATURA": "Matemáticas",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 10, "TRIMESTRE2" : 9, "TRIMESTRE3" : 9
+                    }
+                
+            },
+            {
+                "ASIGNATURA": "Inglés",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 9, "TRIMESTRE2" : 10, "TRIMESTRE3" : 10
+                    }
+                
+            },
+            {
+                "ASIGNATURA": "Educación Física",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 7, "TRIMESTRE2" : 7, "TRIMESTRE3" : 8
+                    }
+                
+            },
+            {
+                "ASIGNATURA": "Ciencias",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 10, "TRIMESTRE2" : 9, "TRIMESTRE3" : 10
+                    }
+                
+            }
+        ]},
+    
+    
+    
+    
+    
+    {"NIF":"19193525O", "NOMBRE":"Yolanda Rama Teruel", "DOMICILIO":"A/ Provincias, 5", "TLF":"965204785", "CIUDAD":"Fuenlabrada",
+        "ASIGNATURAS": [
+            {
+                "ASIGNATURA": "Lenguaje",
+                "NOTAS": 
+                    {
+                            "TRIMESTRE1" : 7, "TRIMESTRE2" : 5, "TRIMESTRE3" : 8
+                    }
+                
+            },
+            {
+                "ASIGNATURA": "Matemáticas",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 8, "TRIMESTRE2" : 4, "TRIMESTRE3" : 5
+                    }
+                
+            },
+            {
+                "ASIGNATURA": "Inglés",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 7, "TRIMESTRE2" : 6, "TRIMESTRE3" : 6
+                    }
+                
+            },
+            {
+                "ASIGNATURA": "Educación Física",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 7, "TRIMESTRE2" : 7, "TRIMESTRE3" : 5
+                    }
+                
+            },
+            {
+                "ASIGNATURA": "Ciencias",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 5, "TRIMESTRE2" : 5, "TRIMESTRE3" : 6
+                    }
+                
+            }
+        ]},
+        
+        
+        
+        
+    {"NIF":"45152535L", "NOMBRE":"Rubén Zarza Carpintero", "DOMICILIO":"C/ Infanta Sofía, 1", "TLF":"91205252", "CIUDAD":"Leganés",
+        "ASIGNATURAS": [
+        {
+            "ASIGNATURA": "Lenguaje",
+            "NOTAS": 
+            {
+                "TRIMESTRE1" : 4, "TRIMESTRE2" : 6, "TRIMESTRE3" : 7
+            }
+        
+        },
+        {
+            "ASIGNATURA": "Matemáticas",
+            "NOTAS": 
+            {
+                "TRIMESTRE1" : 5, "TRIMESTRE2" : 8, "TRIMESTRE3" : 8
+            }
+        
+        },
+        {
+            "ASIGNATURA": "Inglés",
+            "NOTAS": 
+            {
+                "TRIMESTRE1" : 9, "TRIMESTRE2" : 8, "TRIMESTRE3" : 9
+            }
+        
+        },
+        {
+            "ASIGNATURA": "Educación Física",
+            "NOTAS": 
+            {
+                "TRIMESTRE1" : 7, "TRIMESTRE2" : 7, "TRIMESTRE3" : 8
+            }
+                        
+        },
+        {
+            "ASIGNATURA": "Ciencias",
+            "NOTAS": 
+            {
+                "TRIMESTRE1" : 5, "TRIMESTRE2" : 4, "TRIMESTRE3" : 6
+            }
+        
+        }
+    ]},
+            
+            
+            
+            
+    {"NIF":"46454222H", "NOMBRE":"Lucía Fernanda Viso Pamplona", "DOMICILIO":"A/ Asturias, 6", "TLF":"965207412", "CIUDAD":"Fuenlabrada",
+        "ASIGNATURAS": [
+            {
+                "ASIGNATURA": "Lenguaje",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 4, "TRIMESTRE2" : 4, "TRIMESTRE3" : 6
+                    }
+                        
+            },
+            {
+                "ASIGNATURA": "Matemáticas",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 5, "TRIMESTRE2" : 7, "TRIMESTRE3" : 6
+                    }
+                        
+            },
+            {
+                "ASIGNATURA": "Inglés",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 8, "TRIMESTRE2" : 8, "TRIMESTRE3" : 9
+                    }
+                        
+            },
+            {
+                "ASIGNATURA": "Educación Física",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 6, "TRIMESTRE2" : 7, "TRIMESTRE3" : 8
+                    }
+                        
+            },
+            {
+                "ASIGNATURA": "Ciencias",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 5, "TRIMESTRE2" : 4, "TRIMESTRE3" : 7
+                    }
+                
+            }
+        ]},
+
+
+
+
+
+    {"NIF":"47521435L", "NOMBRE":"Ramón Díaz Alonso", "DOMICILIO":"C/ Hispanidad, 10", "TLF":"965201402", "CIUDAD":"Fuenlabrada",
+        "ASIGNATURAS": [
+            {
+                "ASIGNATURA": "Lenguaje",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 7, "TRIMESTRE2" : 7, "TRIMESTRE3" : 9
+                    }
+                
+            },
+            {
+                "ASIGNATURA": "Matemáticas",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 6, "TRIMESTRE2" : 5, "TRIMESTRE3" : 6
+                    }
+                
+            },
+            {
+                "ASIGNATURA": "Inglés",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 8, "TRIMESTRE2" : 10, "TRIMESTRE3" : 10
+                    }
+                
+            },
+            {
+                "ASIGNATURA": "Educación Física",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 8, "TRIMESTRE2" : 9, "TRIMESTRE3" : 8
+                    }
+                
+            },
+            {
+                "ASIGNATURA": "Ciencias",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 6, "TRIMESTRE2" : 7, "TRIMESTRE3" : 7
+                    }
+                
+            }
+        ]},
+
+
+
+
+
+    {"NIF":"45124525X", "NOMBRE":"Pedro Alcudia Rivas", "DOMICILIO":"C/ Madrid, 12", "TLF":"965204585", "CIUDAD":"Fuenlabrada",
+        "ASIGNATURAS": [
+            {
+                "ASIGNATURA": "Lenguaje",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 8, "TRIMESTRE2" : 9, "TRIMESTRE3" : 10
+                    }
+                
+            },
+            {
+                "ASIGNATURA": "Matemáticas",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 8, "TRIMESTRE2" : 9, "TRIMESTRE3" : 9
+                    }
+                
+            },
+            {
+                "ASIGNATURA": "Inglés",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 10, "TRIMESTRE2" : 10, "TRIMESTRE3" : 10
+                    }
+                
+            },
+            {
+                "ASIGNATURA": "Educación Física",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 6, "TRIMESTRE2" : 7, "TRIMESTRE3" : 8
+                    }
+                
+            },
+            {
+                "ASIGNATURA": "Ciencias",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 10, "TRIMESTRE2" : 9, "TRIMESTRE3" : 9
+                    }
+                
+            }
+        ]},
+
+
+
+
+
+    {"NIF":"48425255X", "NOMBRE":"Leticia Sánchez Redondo", "DOMICILIO":"C/ Ávila, 7", "TLF":"965205202", "CIUDAD":"Fuenlabrada",
+        "ASIGNATURAS": [
+            {
+                "ASIGNATURA": "Lenguaje",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 4, "TRIMESTRE2" : 6, "TRIMESTRE3" : 6
+                    }
+                
+            },
+            {
+                "ASIGNATURA": "Matemáticas",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 5, "TRIMESTRE2" : 4, "TRIMESTRE3" : 7
+                    }
+                
+            },
+            {
+                "ASIGNATURA": "Inglés",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 8, "TRIMESTRE2" : 7, "TRIMESTRE3" : 8
+                    }
+                
+            },
+            {
+                "ASIGNATURA": "Educación Física",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 7, "TRIMESTRE2" : 7, "TRIMESTRE3" : 7
+                    }
+                
+            },
+            {
+                "ASIGNATURA": "Ciencias",
+                "NOTAS": 
+                    {
+                        "TRIMESTRE1" : 6, "TRIMESTRE2" : 5, "TRIMESTRE3" : 4
+                    }
+                
+            }
+        ]}
+    ]
